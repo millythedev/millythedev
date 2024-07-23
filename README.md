@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @millythedev
+- 👀 I’m interested in ...
+-   expanding my coding knowledge to unparalleded lengths and being able to constantly enjoy what i do
+- 🌱 I’m currently learning ...
+-   CSS, HTML, JAAV
+- 💞️ I’m looking to collaborate on ...
+-   anything and everything
+- 📫 How to reach me ...
+-   Discord : we.hate.milly
+- ⚡ Fun fact: ...
+-   i enjoy listening to music and playing games; i am a elder god rank mortal kombat player
+
+<!---
+millythedev/millythedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
